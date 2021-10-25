@@ -1,0 +1,8 @@
+Camara funciona
+
+Problemas CAJA
+	- Atraviesa escenario pero fubnciona en todos los ejes
+	- Solo funciona en 3 ejes
+	- Funciona bien pero atraviesas la caja
+	- En cuanto atachas la caja al player, te caes al vacio existencial.
+	- La salud mental de Cañete
